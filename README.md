@@ -26,7 +26,7 @@ Cozy Meadow features grasslands with a lake, bordering up to a mountain range wi
 This is combined with sounds of a flowing lake and birds singing to give an ambience of serenity and peace.
 
 #### World 2 - Gothic Dungeon
-Gothic Dungeon features a lit up, dusty old dungeon with huge spiders crawling on spiderwebs and a gate out to freedom which is forever locked. 
+Gothic Dungeon features a dusty old dungeon lit up with torches, with huge spiders crawling on spiderwebs and a gate out to freedom which is forever locked. 
 This is combined with sounds of wind, knocks and scraping, a tamburine, thunder, rain and crows cawing to give an eerie feeling. 
 
 #### World 3 - Volcanic Biome
