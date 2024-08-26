@@ -1,6 +1,8 @@
 # Adventures of Chirpie
 An endless runner game I made in Unity for Google Play Store, itch.io and Unity Distribution Portal. It features 8 different worlds with their own unique ambience, achievements, pickups, powerups, upgrades, different player characters, daily rewards, slot machine minigames and player trophies. 
 
+   <img src="AppIcon.png" alt="App Icon" width="256"/>
+
 The game was initially published to Google Play Store, itch.io, Samsung Galaxy Store, Huawei App Gallery, TPAY Mobile Stores, QooApp Game Store and Uptodown App Store. 
 
 ## The making of Adventures of Chirpie
