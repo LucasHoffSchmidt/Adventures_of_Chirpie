@@ -120,7 +120,7 @@ The pipe is a black marble pipe, symbolizing pillars.
          <img src="Images/Worlds/(W2)Gothic_Dungeon.png" alt="Gothic Dungeon" width="512"/>
       </td>
       <td>
-         <img src="Images/Pipes/Black Marble Pipe.png" alt="Black Marble Pipe" width="512"/>
+         <img src="Images/Pipes/Black Marble Pipe.png" alt="Black Marble Pipe" width="128"/>
       </td>
    </tr>
 </table>
