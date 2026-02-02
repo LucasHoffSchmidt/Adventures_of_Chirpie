@@ -19,7 +19,7 @@ Brief trailer introducing the highlights of the game.
 Full walkthrough of every element in the game, including worlds, mechanics, powerups and more. 
 
 <a href="https://www.youtube.com/watch?v=sR40_GvIqTM">
-   <img src="https://img.youtube.com/vi/sR40_GvIqTM/maxresdefault.jpg" alt="Watch Trailer" width="512"/>
+   <img src="https://img.youtube.com/vi/sR40_GvIqTM/maxresdefault.jpg" alt="Watch Walkthrough" width="512"/>
 </a>  
 
 ---
