@@ -28,7 +28,7 @@ Full walkthrough of every element in the game, including worlds, mechanics, powe
 - [Game Architecture](#game-architecture)
 - [Game Worlds](#game-worlds)
 - [Player Characters](#player-characters)
-- [Powerups & Boosts](powerups-special-abilities--boosts)
+- [Powerups, Special Abilities & Boosts](#powerups-special-abilities--boosts)
 - [Collectibles](#collectibles)
 - [The Golden and Diamond Slot Machines](#the-golden-and-diamond-slot-machines)
 - [Achievements](#achievements)
@@ -91,10 +91,10 @@ In the background we have a soundscape of birds singing, marking the beginning o
 
 The pipe is a wood pipe, symbolizing trees. 
 
-<p>
-   <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="900"/>
-   <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="100"/>
-</p>
+<div style="white-space: nowrap;">
+  <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="900" style="display:inline-block; vertical-align:top;" />
+  <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="100" style="display:inline-block; vertical-align:top;" />
+</div>
 
 https://github.com/user-attachments/assets/b6ec3d21-3d4d-4995-957f-599417052cfa
 
