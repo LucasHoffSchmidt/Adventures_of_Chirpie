@@ -94,8 +94,8 @@ In the background we have a soundscape of birds singing, marking the beginning o
 The pipe is a wood pipe, symbolizing trees. 
 
 <p>
-  <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="800"/>
-  <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="90"/>
+  <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="89%"/>
+  <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/b6ec3d21-3d4d-4995-957f-599417052cfa
