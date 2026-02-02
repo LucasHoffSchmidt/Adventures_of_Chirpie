@@ -112,8 +112,8 @@ The world has 2 different wind sounds, knocks and scraping, a tambourine, thunde
 The pipe is a black marble pipe, symbolizing pillars. 
 
 <p>
-   <img src="Images/Worlds/(W2)Gothic_Dungeon.png" alt="Gothic Dungeon" width="900"/>
-   <img src="Images/Pipes/Black Marble Pipe.png" alt="Black Marble Pipe" width="100"/>
+   <img src="Images/Worlds/(W2)Gothic_Dungeon.png" alt="Gothic Dungeon" width="89%"/>
+   <img src="Images/Pipes/Black Marble Pipe.png" alt="Black Marble Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/43d7da42-a85d-4751-9f87-6d5ca2f12135
@@ -131,8 +131,8 @@ Here the player should think that they have entered a hostile wasteland, where t
 The pipe is a magma pipe, symbolizing the constant flow of magma. 
 
 <p>
-   <img src="Images/Worlds/(W3)Volcanic_Biome.png" alt="Volcanic Biome" width="900"/>
-   <img src="Images/Pipes/Magma Pipe.png" alt="Magma Pipe" width="100"/>
+   <img src="Images/Worlds/(W3)Volcanic_Biome.png" alt="Volcanic Biome" width="89%"/>
+   <img src="Images/Pipes/Magma Pipe.png" alt="Magma Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/79774da2-6434-452b-b925-6e5a595fb3a7
@@ -148,8 +148,8 @@ The idea here is to introduce a little mystery to the player, by showing them an
 The pipe is a mushroom pipe, symbolizing tall mushrooms. 
 
 <p>
-   <img src="Images/Worlds/(W4)Fungal_Forest.png" alt="Fungal Forest" width="900"/>
-   <img src="Images/Pipes/Mushroom Pipe.png" alt="Mushroom Pipe" width="100"/>
+   <img src="Images/Worlds/(W4)Fungal_Forest.png" alt="Fungal Forest" width="89%"/>
+   <img src="Images/Pipes/Mushroom Pipe.png" alt="Mushroom Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/3f6dc4cb-142c-4ab6-8a9e-fa8e00238f83
@@ -164,8 +164,8 @@ The player should feel chilled to the bone here, and incentivized to keep flying
 The pipe is an ice pipe, symbolizing stalagmites and stalactites. 
 
 <p>
-   <img src="Images/Worlds/(W5)Icy_Cave.png" alt="Icy Cave" width="900"/>
-   <img src="Images/Pipes/Ice Pipe.png" alt="Ice Pipe" width="100"/>
+   <img src="Images/Worlds/(W5)Icy_Cave.png" alt="Icy Cave" width="89%"/>
+   <img src="Images/Pipes/Ice Pipe.png" alt="Ice Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/5fa046d3-98fa-4e8d-b951-24f795d0e03a
@@ -181,8 +181,8 @@ We have now begun a new theme, where the player moves higher and higher up in th
 The pipe is a water pipe, symbolizing the lushness of the environment. 
 
 <p>
-   <img src="Images/Worlds/(W6)Sky_Realm.png" alt="Sky Realm" width="900"/>
-   <img src="Images/Pipes/Water Pipe.png" alt="Water Pipe" width="100"/>
+   <img src="Images/Worlds/(W6)Sky_Realm.png" alt="Sky Realm" width="89%"/>
+   <img src="Images/Pipes/Water Pipe.png" alt="Water Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/97a6af8f-518e-4f57-b39f-605658a73cd2
@@ -197,8 +197,8 @@ The player should feel a sense of calm here as they are nearing the end of their
 The pipe is a white marble pipe, symbolizing pillars. 
 
 <p>
-   <img src="Images/Worlds/(W7)Heaven.png" alt="Heaven" width="900"/>
-   <img src="Images/Pipes/Heavenly Pipe.png" alt="Heavenly Pipe" width="100"/>
+   <img src="Images/Worlds/(W7)Heaven.png" alt="Heaven" width="89%"/>
+   <img src="Images/Pipes/Heavenly Pipe.png" alt="Heavenly Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/49e31de2-0403-426f-a9e1-120ba1ca0bfc
@@ -215,8 +215,8 @@ Now at the end of their journey, the player looks down upon the world they used 
 The pipe is a starry pipe, symbolizing the multitude of stars that inhabit the universe. 
 
 <p>
-   <img src="Images/Worlds/(W8)Space.png" alt="Space" width="900"/>
-   <img src="Images/Pipes/Space Pipe.png" alt="Space Pipe" width="100"/>
+   <img src="Images/Worlds/(W8)Space.png" alt="Space" width="89%"/>
+   <img src="Images/Pipes/Space Pipe.png" alt="Space Pipe" width="9%"/>
 </p>
 
 https://github.com/user-attachments/assets/42adb83d-203f-47d5-8b31-80f7ba9fbebb
