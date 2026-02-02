@@ -78,9 +78,11 @@ The top manager is the GameManager, which keeps an overview of the entire game s
 
 ### **Worlds Overview** 
 From the worlds window, the player can see a preview of each world, a short description and travel to unlocked worlds. 
+
 <img src="Images/Worlds/Worlds_Cozy_Meadow.png" alt="Worlds Window" width="512"/>
  
-Worlds are unlocked by achieving a certain highscore and acquiring it with feathers (ingame currencies).
+Worlds are unlocked by achieving a certain highscore and then acquiring it with feathers (ingame currencies).
+
 <img src="Images/Worlds/Worlds_Locked_World.png" alt="Locked World" width="512"/>
 
 ### **Cozy Meadow**
@@ -91,10 +93,10 @@ In the background we have a soundscape of birds singing, marking the beginning o
 
 The pipe is a wood pipe, symbolizing trees. 
 
-<div style="white-space: nowrap;">
-  <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="900" style="display:inline-block; vertical-align:top;" />
-  <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="100" style="display:inline-block; vertical-align:top;" />
-</div>
+<p>
+  <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="800"/>
+  <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="90"/>
+</p>
 
 https://github.com/user-attachments/assets/b6ec3d21-3d4d-4995-957f-599417052cfa
 
