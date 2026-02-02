@@ -285,7 +285,7 @@ Golden feathers and diamond feathers can be collected through runs, at every 5th
 1 diamond feather is worth 10 golden feathers. 
 They have a rotating animation and a glittering particle effect surrounding them, signifying their value.
 
-<img src="Gifs/Golden_Feather_Gif.gif" alt="Golden feather rotating" width="150"/><img src="Gifs/Diamond_Feather_Gif.gif" alt="Diamond feather rotating" width="150"/>
+<img src="Gifs/Golden_Feather_Gif.gif" alt="Golden feather rotating" width="125"/><img src="Gifs/Diamond_Feather_Gif.gif" alt="Diamond feather rotating" width="125"/>
 
 When you acquire a feather a sound effect is played, based on whether it was a golden or diamond feather. 
 The golden feather has a bright melody and the diamond feather an even brighter melody, so you can auditively clearly hear the difference.
@@ -326,7 +326,7 @@ If the player returns each day, within the day, they can acquire gradually bette
 After 2 weeks they unlock a mystery reward. The purpose of this is to get them to come back day after day to figure out what the mystery is.  
 The sound of unlocking a daily reward has a pleasant rising tone. 
 
-<img src="Images/Daily_Rewards.png" alt="Daily Rewards" width="350"/>
+<img src="Images/Daily_Rewards.png" alt="Daily Rewards" width="400"/>
 
 ---
 
@@ -349,7 +349,8 @@ Creating this game has taught me that perseverance pays off, and that any proble
 * **Game Development:** Unity
 * **Trailer Production:** Shotcut
 
-**Third Party Sites**
+**Third Party Sites Used:**
+
 Freesound.org was used for sound effects and world ambience. 
 Unity Forums, Stack Overflow and Youtube was used for problem solving and inspiration.
 
