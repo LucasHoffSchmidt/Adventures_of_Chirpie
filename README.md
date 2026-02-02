@@ -35,6 +35,7 @@ Full walkthrough of every element in the game, including worlds, mechanics, powe
 - [Daily Rewards](#daily-rewards)
 - [Lessons learned](#lessons-learned)
 - [Credits & tools](#credits--tools)
+- [Play the game](#play-the-game)
 - Other projects I have made: [Portfolio Website](https://lucashoffschmidt.github.io/)
 
 ---
@@ -75,7 +76,7 @@ The top manager is the GameManager, which keeps an overview of the entire game s
 
 **Overview:** 8 unique worlds, each with its own art style and ambience. Players fly endlessly through these environments, collecting feathers and using powerups as they try to avoid colliding with pipes and the ground.
 
-### ** Worlds Overview ** 
+### **Worlds Overview** 
 From the worlds window, the player can see a preview of each world, a short description and travel to unlocked worlds. 
 <img src="Images/Worlds/Worlds_Cozy_Meadow.png" alt="Worlds Window" width="512"/>
  
@@ -90,16 +91,10 @@ In the background we have a soundscape of birds singing, marking the beginning o
 
 The pipe is a wood pipe, symbolizing trees. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W1)Cozy_Meadow.png" alt="Cozy Meadow" width="900"/>
+   <img src="Images/Pipes/Wood Pipe.png" alt="Wood Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/b6ec3d21-3d4d-4995-957f-599417052cfa
 
@@ -114,16 +109,10 @@ The world has 2 different wind sounds, knocks and scraping, a tambourine, thunde
 
 The pipe is a black marble pipe, symbolizing pillars. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W2)Gothic_Dungeon.png" alt="Gothic Dungeon" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Black Marble Pipe.png" alt="Black Marble Pipe" width="128"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W2)Gothic_Dungeon.png" alt="Gothic Dungeon" width="900"/>
+   <img src="Images/Pipes/Black Marble Pipe.png" alt="Black Marble Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/43d7da42-a85d-4751-9f87-6d5ca2f12135
 
@@ -139,16 +128,10 @@ Here the player should think that they have entered a hostile wasteland, where t
 
 The pipe is a magma pipe, symbolizing the constant flow of magma. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W3)Volcanic_Biome.png" alt="Volcanic Biome" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Magma Pipe.png" alt="Magma Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W3)Volcanic_Biome.png" alt="Volcanic Biome" width="900"/>
+   <img src="Images/Pipes/Magma Pipe.png" alt="Magma Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/79774da2-6434-452b-b925-6e5a595fb3a7
 
@@ -162,16 +145,10 @@ The idea here is to introduce a little mystery to the player, by showing them an
 
 The pipe is a mushroom pipe, symbolizing tall mushrooms. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W4)Fungal_Forest.png" alt="Fungal Forest" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Mushroom Pipe.png" alt="Mushroom Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W4)Fungal_Forest.png" alt="Fungal Forest" width="900"/>
+   <img src="Images/Pipes/Mushroom Pipe.png" alt="Mushroom Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/3f6dc4cb-142c-4ab6-8a9e-fa8e00238f83
 
@@ -184,16 +161,10 @@ The player should feel chilled to the bone here, and incentivized to keep flying
 
 The pipe is an ice pipe, symbolizing stalagmites and stalactites. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W5)Icy_Cave.png" alt="Icy Cave" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Ice Pipe.png" alt="Ice Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W5)Icy_Cave.png" alt="Icy Cave" width="900"/>
+   <img src="Images/Pipes/Ice Pipe.png" alt="Ice Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/5fa046d3-98fa-4e8d-b951-24f795d0e03a
 
@@ -207,16 +178,10 @@ We have now begun a new theme, where the player moves higher and higher up in th
 
 The pipe is a water pipe, symbolizing the lushness of the environment. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W6)Sky_Realm.png" alt="Sky Realm" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Water Pipe.png" alt="Water Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W6)Sky_Realm.png" alt="Sky Realm" width="900"/>
+   <img src="Images/Pipes/Water Pipe.png" alt="Water Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/97a6af8f-518e-4f57-b39f-605658a73cd2
 
@@ -229,16 +194,10 @@ The player should feel a sense of calm here as they are nearing the end of their
 
 The pipe is a white marble pipe, symbolizing pillars. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W7)Heaven.png" alt="Heaven" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Heavenly Pipe.png" alt="Heavenly Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W7)Heaven.png" alt="Heaven" width="900"/>
+   <img src="Images/Pipes/Heavenly Pipe.png" alt="Heavenly Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/49e31de2-0403-426f-a9e1-120ba1ca0bfc
 
@@ -253,16 +212,10 @@ Now at the end of their journey, the player looks down upon the world they used 
 
 The pipe is a starry pipe, symbolizing the multitude of stars that inhabit the universe. 
 
-<table>
-   <tr>
-      <td>
-         <img src="Images/Worlds/(W8)Space.png" alt="Space" width="512"/>
-      </td>
-      <td>
-         <img src="Images/Pipes/Space Pipe.png" alt="Space Pipe" width="512"/>
-      </td>
-   </tr>
-</table>
+<p>
+   <img src="Images/Worlds/(W8)Space.png" alt="Space" width="900"/>
+   <img src="Images/Pipes/Space Pipe.png" alt="Space Pipe" width="100"/>
+</p>
 
 https://github.com/user-attachments/assets/42adb83d-203f-47d5-8b31-80f7ba9fbebb
 
@@ -290,35 +243,38 @@ The powerups, special abilities and boosts have been made with inspiration from 
 
 ### **Potions**
 The potions take inspiration from RPG's, where a potion can restore your health, or temporarily boost your abilities.
-* Show picture of potions from shop *
+<img src="Images/Potions.png" alt="Life Potion and Elixir of Immortality" width="500"/>
 
 The life potion lets you continue the run from the score where you died. 
 The elixir of immortality takes this one step further and starts you off with 30 seconds of immortality.
-* Show gif of using the potions * 
+
+<img src="Gifs/Potions_Gif.gif" alt="Using potion and elixir" width="400"/>
 
 ### **Special Abilities**
 The special abilities are inspired by MOBA's, where each ability can be combined for even greater effects.
-* Show picture of special abilities from game *
+<img src="Images/Powerups.png" alt="Special Abilities" width="500"/>
 
 The force field allows you to take 3 hits without dying. 
 The superdash lets you quickly advance 20 pipes. 
 The multiplier makes feathers appear for every pipe, rather than for every 5th pipe. 
-The dimension shiper makes the pipes transparent, allowing you to go straight through them. 
+The dimension shifter makes the pipes transparent, allowing you to go straight through them. 
 
-* Show gif of special abilities *
+<img src="Gifs/Powerups_Gif.gif" alt="Using special abilities" width="400"/>
 
 ### **Boosts**
 The boosts are inspired by launch games, that quickly give you a headstart. 
-* Show picture of boosts from play window *
+
+<img src="Images/Boosters.png" alt="Boosts" width="200"/>
 
 The headstart minor will let you start a run around pipe 50. 
 The headstart major will let you start a run around pipe 100.
 
-* Show gif of boosts
+<img src="Gifs/Boosts_Gif.gif" alt="Using boosts" width="400"/>
 
 ### **Purchasing and Upgrading**
 Powerups, special abilities and boosts can be purchased and upgraded from the shop. 
-* Show gif of going into the shop and purchasing and upgrading an elixir * 
+
+<img src="Gifs/Elixir_Upgrade_Gif.gif" alt="Buying and upgrading elixir of immortality" width="400"/>
 
 ---
 
@@ -326,7 +282,8 @@ Powerups, special abilities and boosts can be purchased and upgraded from the sh
 Golden feathers and diamond feathers can be collected through runs, at every 5th pipe by default. 
 1 diamond feather is worth 10 golden feathers. 
 They have a rotating animation and a glittering particle effect surrounding them, signifying their value.
-* Show gifs of rotating feathers next to each other * 
+
+<img src="Gifs/Golden_Feather_Gif.gif" alt="Golden feather rotating" width="150"/><img src="Gifs/Diamond_Feather_Gif.gif" alt="Diamond feather rotating" width="150"/>
 
 When you acquire a feather a sound effect is played, based on whether it was a golden or diamond feather. 
 The golden feather has a bright melody and the diamond feather an even brighter melody, so you can auditively clearly hear the difference.
@@ -341,7 +298,7 @@ The slot machines are used to introduce variation, when the player is exhausted 
 On the slot machine window, you can see how much it costs to play, and on the side the potential rewards you get for playing. 
 You play by clicking the pull button, which starts the reels with a rotating sound and a celebratory sound if you win.
 
-* Show gif of playing on the golden slot machine and winning and diamond slot machine and losing, next to each other *
+<img src="Gifs/Golden_SlotMachine_Gif.gif" alt="Golden slot machine" width="500"/><img src="Gifs/Diamond_SlotMachine_Gif.gif" alt="Diamond slot machine" width="500"/>
 
 The slot machines take inspiration from actual casino slot machines with lights at the top, the long pullbar and the sounds of reels rotating and celebration.  
 
@@ -350,27 +307,32 @@ I have made custom ingame achievements, which can be seen under the achievements
 It features a tally, showing you how many achievements you have, and how many you are missing. 
 Each achievement has a unique name, logo, description and comment. 
 Once you unlock an achievement you acquire a reward of golden and diamond feathers.  
-* Show picture of achievement with tally * 
+
+<img src="Images/Achievements/Achievement_element.png" alt="Achievement element" width="500"/>
 
 Initially the description and comment of achievements are hidden, but once the achievement has been made accomplished, the description and comment will be shown. 
 Standard hidden achievements are darkened, while unknown achievements related to worlds, player characters and feathers are completely black, to incentivize the player to acquire them. 
-* Show picture of darkened and black achievements * 
+
+<img src="Images/Achievements/Achievement_hidden.png" alt="Hidden achievements" width="400"/>
 
 When the player unlocks an achievement, an overlay will appear at the top of the screen, with its name, logo, description, comment and reward. 
-* Show the picture of the achievements overlay *
+
+<img src="Images/Achievements/Achievements_overlay.png" alt="Achievements overlay" width="800"/>
 
 ## **Daily Rewards**
 If the player returns each day, within the day, they can acquire gradually better daily rewards. 
 After 2 weeks they unlock a mystery reward. The purpose of this is to get them to come back day after day to figure out what the mystery is.  
 The sound of unlocking a daily reward has a pleasant rising tone. 
-* Show picture of daily reward window* 
+
+<img src="Images/Daily_Rewards.png" alt="Daily Rewards" width="350"/>
 
 ---
 
 ## **Lessons Learned**
-This was the first game I ever created. I didn't even know how to code when I started, so I scrambled initially, trying to learn how everything worked. 
-Once I understood one part of the game development process, there was always a new part looming just beyond the horizon. 
+This was the first game I ever created. I didn't even know how to code when I started, so I scrambled initially, looking through stack overflow, forums and youtube, trying to figure out how everything worked. 
+
 I dealt with everything from missing or broken dependencies, to the game being unable to start, because a little option wasn't ticked. 
+
 Creating this game has taught me that perseverance pays off, and that any problem can be solved, by looking at it from the right perspective. 
 
 ---
@@ -379,15 +341,15 @@ Creating this game has taught me that perseverance pays off, and that any proble
 
 **Tools Used:**
 
-* **Art & Assets:** GIMP
-* **Sound & Ambience:** FL Studio, Audacity
+* **2D art** GIMP
+* **Ambience:** FL Studio, Audacity
 * **Sound Effects:** Bfxr
 * **Game Development:** Unity
 * **Trailer Production:** Shotcut
 
-**Third party sites**
+**Third Party Sites**
 Freesound.org was used for sound effects and world ambience. 
-Unity forums, stack overflow and youtube was used for problem solving and inspiration.
+Unity Forums, Stack Overflow and Youtube was used for problem solving and inspiration.
 
 ## Play the game
 You can play the game for free here --> 
